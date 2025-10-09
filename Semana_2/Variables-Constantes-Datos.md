@@ -21,6 +21,23 @@ El estudiante aprenderá a declarar variables, definir constantes y utilizar cor
 Una **variable** es un espacio en memoria reservado para almacenar un valor que puede cambiar durante la ejecución del programa.  
 Cada variable tiene un **nombre**, un **tipo de dato** y un **valor**.
 
+## 📋 Tipos de datos más comunes:
+
+| Tipo de dato | Descripción                    | Ejemplo                       |
+| ------------ | ------------------------------ | ----------------------------- |
+| `int`        | Entero (sin decimales)         | `int edad = 25;`              |
+| `float`      | Decimal de precisión simple    | `float peso = 65.4;`          |
+| `double`     | Decimal de precisión doble     | `double pi = 3.14159;`        |
+| `char`       | Carácter individual            | `char letra = 'A';`           |
+| `string`     | Cadena de caracteres           | `string nombre = "Cristian";` |
+| `bool`       | Valor lógico (verdadero/falso) | `bool encendido = true;`      |
+
+
+### 2️⃣ Constantes
+
+Una constante es un valor que no puede modificarse durante la ejecución del programa.
+Se declara con la palabra clave const.
+
 #### 💻 Ejemplo:
 ```cpp
 #include <iostream>
@@ -41,19 +58,4 @@ int main() {
     return 0;
 }
 
-## 📋 Tipos de datos más comunes:
 
-| Tipo de dato | Descripción                    | Ejemplo                       |
-| ------------ | ------------------------------ | ----------------------------- |
-| `int`        | Entero (sin decimales)         | `int edad = 25;`              |
-| `float`      | Decimal de precisión simple    | `float peso = 65.4;`          |
-| `double`     | Decimal de precisión doble     | `double pi = 3.14159;`        |
-| `char`       | Carácter individual            | `char letra = 'A';`           |
-| `string`     | Cadena de caracteres           | `string nombre = "Cristian";` |
-| `bool`       | Valor lógico (verdadero/falso) | `bool encendido = true;`      |
-
-
-### 2️⃣ Constantes
-
-Una constante es un valor que no puede modificarse durante la ejecución del programa.
-Se declara con la palabra clave const.
