@@ -3,7 +3,7 @@
 **Docente:** Ing. Cristian Omar Torres Chegue  
 **Institución:** Universidad Autónoma de Guerrero (UAGro)  
 **Programa:** Maestría en Ingeniería para la Innovación y Desarrollo Tecnológico (MIIDT)  
-**Correo:** [cristian.torres@uagro.mx](mailto:cristian.torres@uagro.mx)  
+**Correo:** [13005354@uagro.mx](mailto:13005354@uagro.mx)  
 **Duración:** 10 sesiones (3 horas por sesión)  
 **Lenguaje de programación:** C++  
 **Modalidad:** Teórico - Práctica  
