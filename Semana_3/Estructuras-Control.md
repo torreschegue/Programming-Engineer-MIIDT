@@ -156,6 +156,8 @@ int main() {
 * `break`; evita que se ejecuten los siguientes casos.
 * `default`: se ejecuta si ninguna opción coincide.
 
+---
+
 🧩 **Comparación rápida**
 
 | Estructura        | Uso principal           | Evalúa           | Permite rangos | Requiere `break` |
@@ -166,6 +168,8 @@ int main() {
 | `switch`          | Múltiples valores fijos | Valor exacto     | ❌ No           | ✅ Sí             |
 
 
+---
+
 🧮 **Actividades prácticas**
 
 * **Actividad 1**: Escribe un programa que determine si un número es positivo, negativo o cero.
@@ -173,6 +177,8 @@ int main() {
 * **Actividad 3**: Diseña un menú interactivo con switch que permita seleccionar entre tres operaciones matemáticas.
 * **Actividad 4**: Crea un programa que indique el día de la semana según un número (1 = Lunes, ..., 7 = Domingo).
 * **Actividad 5**: Usa if-else if para determinar el nivel de rendimiento académico (Excelente, Bueno, Regular, Insuficiente).
+
+---
 
 💡 **Recomendaciones**
 
@@ -184,3 +190,8 @@ int main() {
 | **switch**                 | Evalúa una variable contra múltiples valores fijos.                |
 | **break**                  | Finaliza un caso dentro de un `switch`.                            |
 | **default**                | Se ejecuta si ninguna condición anterior se cumple.                |
+
+--- 
+
+> _“Las decisiones que toma tu código determinan su inteligencia.”_  
+> — Ing. Cristian Omar Torres Chegue
